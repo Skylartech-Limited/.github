@@ -1,4 +1,4 @@
-# SkylarTech Limited
+# Skylartech Limited
 
 Welcome to the official GitHub organization for **SkylarTech Limited**.
 
