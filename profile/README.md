@@ -1,25 +1,59 @@
-# Skylartech Limited
+# SkylarTech Limited
 
-## Welcome to Skylartech - Your Partner in Intelligent Technologies
+Welcome to the official GitHub organization for **SkylarTech Limited**.
 
-Skylartech is a distinguished company specializing in mobile and web app development, prioritizing intelligent technologies to ensure utmost customer contentment. Established in 2014, our firm has consistently provided top-notch solutions to businesses worldwide, achieving a remarkable 100% success rate.
+## About Us
 
-## Why Choose Skylartech?
+SkylarTech Limited is a professional training and consulting company dedicated to advancing project management excellence. We specialize in preparing professionals and organizations for globally recognized **Project Management Institute (PMI®)** certifications through high-quality training, practical learning experiences, and continuing professional development.
 
-- **Expertise:** Our seasoned team brings a wealth of experience to every project, guaranteeing top-notch results.
-  
-- **Global Impact:** Skylartech has successfully empowered businesses across the globe with innovative technological solutions.
-  
-- **Success Stories:** Join a long list of satisfied clients who have benefited from our commitment to excellence.
-  
-- **Affordability:** Avail our premium services at budget-friendly rates, ensuring you get the best value for your investment.
+Our mission is to empower individuals and organizations with the knowledge, skills, and confidence needed to successfully deliver projects and achieve lasting professional success.
 
-## Our Services
+## What We Do
 
-- **Mobile App Development:** Crafting intuitive and feature-rich mobile applications tailored to your unique requirements.
+* 🎓 PMI® Certification Preparation
+* 📚 Professional Development Units (PDUs)
+* 🏢 Corporate Project Management Training
+* 📈 Project Management Consulting
+* 🤝 Professional Development & Continuing Education
 
-- **Web App Development:** Building robust and scalable web applications that propel your business forward.
+## Our Training Programs
 
-## Partner with Skylartech
+We offer preparation courses and learning resources for:
 
-Empower your company with the perfect technological solutions it deserves. Join hands with Skylartech, where innovation meets reliability, and success becomes a tradition.
+* Project Management Professional (PMP®)
+* Certified Associate in Project Management (CAPM®)
+* PMI Agile Certified Practitioner (PMI-ACP®)
+* PMI Risk Management Professional (PMI-RMP®)
+* PMI Professional in Business Analysis (PMI-PBA®)
+* Program Management Professional (PgMP®)
+* Portfolio Management Professional (PfMP®)
+
+## Our Mission
+
+To empower professionals and organizations through world-class project management education, enabling them to achieve internationally recognized certifications and deliver successful projects with confidence.
+
+## Our Values
+
+* Excellence
+* Integrity
+* Continuous Learning
+* Professionalism
+* Innovation
+* Customer Success
+
+## GitHub
+
+This GitHub organization hosts repositories for:
+
+* Company websites
+* Internal tools
+* Learning platforms
+* Automation projects
+* Documentation
+* Open-source initiatives (where applicable)
+
+## Connect With Us
+
+🌐 **Website:** https://www.skylartech.co.ke
+
+We appreciate your interest in Skylartech Limited and our work in advancing project management excellence.
