@@ -1,6 +1,6 @@
 # Skylartech Limited
 
-Welcome to the official GitHub organization for **SkylarTech Limited**.
+Welcome to the official GitHub organization for **Skylartech Limited**.
 
 ## About Us
 
