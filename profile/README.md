@@ -16,4 +16,4 @@ Email [info@skylartech.co.ke](mailto:info@skylartech.co.ke), or use the [booking
 
 ## About this GitHub organization
 
-We use GitHub for the code behind our website, which is private. Skylartech sells training and consulting, and we don't offer software development.
+We use GitHub for the code behind our website, which is private. Skylartech sells training and consulting.
