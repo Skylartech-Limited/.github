@@ -1,89 +1,46 @@
 # Skylartech Limited
 
-Welcome to the official GitHub organization for **Skylartech Limited**.
+Skylartech trains project professionals for PMI® certifications and provides project management, PMO and governance consulting. We are a PMI® Premier Authorized Training Partner (ATP No. C004927), and for over 12 years we have prepared professionals around the world for PMP®, CAPM® and other PMI® certifications.
 
-## About Skylartech
+[Website](https://www.skylartech.co.ke) | [Book training](https://www.skylartech.co.ke/book-training) | [About us](https://www.skylartech.co.ke/about)
 
-**Skylartech Limited** is a project management training and consulting company focused on helping professionals and organizations build the knowledge, skills, and capabilities needed to successfully deliver projects.
+## Training
 
-We provide professional training, certification preparation, project management consulting, and continuing professional development, with a focus on globally recognized **Project Management Institute (PMI®)** standards and certifications.
+Courses run as live online classes on Google Meet, weekend cohorts, hybrid programs and on-site corporate training, so you can join from any country.
 
-Skylartech is a **PMI® Premier Authorized Training Partner**, providing structured learning experiences designed to support professionals pursuing internationally recognized project management credentials.
+| Certification | Full name |
+| --- | --- |
+| [PMP®](https://www.skylartech.co.ke/certifications/pmp) | Project Management Professional |
+| [CAPM®](https://www.skylartech.co.ke/certifications/capm) | Certified Associate in Project Management |
+| [PgMP®](https://www.skylartech.co.ke/certifications/pgmp) | Program Management Professional |
+| [PfMP®](https://www.skylartech.co.ke/certifications/pfmp) | Portfolio Management Professional |
+| [PMI-ACP®](https://www.skylartech.co.ke/certifications/pmi-acp) | PMI Agile Certified Practitioner |
+| [PMI-RMP®](https://www.skylartech.co.ke/certifications/pmi-rmp) | PMI Risk Management Professional |
+| [PMI-PBA®](https://www.skylartech.co.ke/certifications/pmi-pba) | PMI Professional in Business Analysis |
+| [PMI-SP®](https://www.skylartech.co.ke/certifications/pmi-sp) | PMI Scheduling Professional |
+| [PMI-CP®](https://www.skylartech.co.ke/certifications/pmi-cp) | PMI Construction Professional |
+| [PMI-PMOCP®](https://www.skylartech.co.ke/certifications/pmi-pmocp) | PMI PMO Certified Professional |
+| [PMI-CPMAI®](https://www.skylartech.co.ke/certifications/pmi-cpmai) | PMI Certified Professional in Managing AI |
+| [CSPP®](https://www.skylartech.co.ke/certifications/cspp) | Certified Sustainable Project Professional |
 
-## What We Do
+If you need PDUs to renew a PMI certification, our [Strategic Project Leadership Masterclass](https://www.skylartech.co.ke/courses/strategic-project-leadership-masterclass) earns 59.75 PDUs and covers the PMI Talent Triangle®.
 
-* 🎓 **PMI® Certification Training & Preparation**
-* 📚 **Professional Development & Continuing Education**
-* 🏢 **Corporate Project Management Training**
-* 📈 **Project Management Consulting**
-* 🤝 **Professional Skills Development**
-* 🌍 **Project Management Education for Professionals & Organizations**
+## Consulting
 
-## PMI® Certification Programs
+- [Consulting and organizational transformation](https://www.skylartech.co.ke/services/consulting-and-organizational-transformation)
+- [Portfolio, PMO and governance](https://www.skylartech.co.ke/services/portfolio-pmo-and-governance-excellence)
+- [Agile and adaptive delivery](https://www.skylartech.co.ke/services/agile-and-adaptive-delivery-excellence)
+- [Risk, compliance and assurance](https://www.skylartech.co.ke/services/risk-compliance-and-assurance)
+- [Business analysis and requirements](https://www.skylartech.co.ke/services/business-analysis-and-requirements-gathering)
 
-Our training and learning programs support professionals preparing for a range of PMI® certifications, including:
+## Who we work with
 
-* **Project Management Professional (PMP®)**
-* **Certified Associate in Project Management (CAPM®)**
-* **PMI Agile Certified Practitioner (PMI-ACP®)**
-* **PMI Risk Management Professional (PMI-RMP®)**
-* **PMI Professional in Business Analysis (PMI-PBA®)**
-* **Program Management Professional (PgMP®)**
-* **Portfolio Management Professional (PfMP®)**
+We work with individual professionals and with organizations in [banking and finance](https://www.skylartech.co.ke/who-we-serve/banking-and-finance), [telecommunications](https://www.skylartech.co.ke/who-we-serve/telecommunications), [NGOs](https://www.skylartech.co.ke/who-we-serve/ngos), [government](https://www.skylartech.co.ke/who-we-serve/government) and [healthcare](https://www.skylartech.co.ke/who-we-serve/healthcare).
 
-We also support ongoing professional development through **Professional Development Units (PDUs)** and continuing education.
+## Contact
 
-## Who We Serve
+To request a place on a course, use the [booking form](https://www.skylartech.co.ke/book-training). For anything else, email [info@skylartech.co.ke](mailto:info@skylartech.co.ke) or call +254 718 257 293.
 
-Skylartech works with professionals and organizations seeking to strengthen their project management capabilities, including:
+## About this GitHub organization
 
-* Project and program professionals
-* Professionals pursuing PMI® certifications
-* Organizations investing in project management capability
-* Corporate teams requiring structured project management training
-* Professionals seeking continuing education and professional development
-
-## Our Approach
-
-We combine professional training with practical project management knowledge to help learners understand not only certification requirements, but also how project management principles can be applied effectively in real-world environments.
-
-Our focus is on:
-
-* **Practical learning**
-* **Professional excellence**
-* **Continuous development**
-* **Industry-aligned project management practices**
-* **Certification readiness**
-* **Organizational capability development**
-
-## Our Values
-
-* **Excellence**
-* **Integrity**
-* **Professionalism**
-* **Continuous Learning**
-* **Innovation**
-* **Customer Success**
-
-## GitHub
-
-This GitHub organization contains repositories supporting Skylartech's digital and operational work, including:
-
-* 🌐 Company websites and web applications
-* 🛠️ Internal tools and systems
-* ⚙️ Automation projects
-* 📚 Learning and educational platforms
-* 📖 Documentation
-* 🔬 Technology and development initiatives
-* 🌱 Open-source projects, where applicable
-
-## Visit Skylartech
-
-🌐 **Website:** https://www.skylartech.co.ke
-
-Learn more about our **project management training, PMI® certification programs, consulting services, and professional development opportunities** on our website.
-
----
-
-**Skylartech Limited**
-*Project Management Training & Consulting*
+We use GitHub for the code behind our website, which is private. Skylartech sells training and consulting.
